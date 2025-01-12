@@ -1,0 +1,11 @@
+sqlalchemy
+psycopg2-binary
+pydantic[email]
+faker
+pyspark==3.5.3
+kafka-python
+jupyterlab
+notebook
+ipykernel
+pandas
+numpy
